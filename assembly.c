@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <math.h>
 
-enum sorszam {elso = 1, masodik, harmadik, negyedik, otodik};
-
 typedef struct
 {
     double x;
